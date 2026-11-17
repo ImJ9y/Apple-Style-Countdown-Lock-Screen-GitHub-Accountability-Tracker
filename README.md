@@ -1,4 +1,4 @@
-<img width="2528" height="1696" alt="Gemini_Generated_Image_y8uhzy8uhzy8uhzy" src="https://github.com/user-attachments/assets/844ce2f9-5012-40c9-9d3c-97866b700c6e" /># Apple-Style Countdown Lock Screen & GitHub Accountability Tracker
+# Apple-Style Countdown Lock Screen & GitHub Accountability Tracker
 
 I built an ultra-transparent Apple-style Countdown Lock Screen and GitHub Accountability Tracker to stay on top of major engineering deliverables and exam deadlines. Gemini helped me break the build into clear milestones: a draggable priority queue with a live countdown clock, a 52-week GitHub contribution heatmap that logs on-time vs. missed tasks, and sleep-proof timestamp persistence. I learned how to combine glassmorphic UI with real-time state sync.
 
